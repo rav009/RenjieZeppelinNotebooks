@@ -1,4 +1,6 @@
-# Zeppelin_Tutorial by Renjie
+# Zeppelin Notebooks by Renjie
 
-This is my tutorial for new users of Zeppelin
-There are 3 Chapters which cover the field of Basic operations, data engineering and data science.
+I am Renjie, an engineer in Shanghai.
+This is my Zeppelin notebooks repo.
+
+In this repo, there are lots of notebooks cover different areas of data.
